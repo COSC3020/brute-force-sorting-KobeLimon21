@@ -24,4 +24,5 @@ most important part. Add your answer to this markdown file.
 
 Sources:
 https://github.com/COSC3020/brute-force-sorting-swilso59-1   - viewed this repo 
-https://dev.to/ashutoshsarangi/approaching-brute-force-algorithm-using-javascript-4ppl   - examples of different ways it's used 
+
+https://dev.to/ashutoshsarangi/approaching-brute-force-algorithm-using-javascript-4ppl   - examples of implementations with other real world aspects 
