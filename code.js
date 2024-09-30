@@ -40,8 +40,6 @@ function permutationSort(array) {
 
   genPermutations(array, 0); 
 
-  console.log("The total amount of permutations tried was " + permutationsTried);
-
   return permutationsTried; 
 }
 
@@ -49,3 +47,6 @@ function permutationSort(array) {
 // let arr = [0,1];
 //let arr = [0];
 //permutationSort(arr);
+//console.log("The total amount of permutations tried was " + permutationsTried);
+
+
